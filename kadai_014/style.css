@@ -7,6 +7,7 @@ body{
     /*ここにGoogle Fontsを指定します。*/
     font-family:"Josefin Sans", sans-serif;
 }
+
 /*ここにcolorを指定します*/
 .paragraph1{
     color: skyblue;
@@ -36,7 +37,7 @@ body{
   letter-spacing: 1.2em;
   text-decoration: underline 3px rgb(255,192,203);
   text-shadow: 1px 1px 2px gray;
-  font-size: 40px;
+  font-size: 2em;
 }
 #parent p{
   font-weight: bold;
