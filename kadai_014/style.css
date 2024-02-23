@@ -1,0 +1,43 @@
+body{
+    font-family:"Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.google-fonts{
+    /*ここにGoogle Fontsを指定します。*/
+    font-family:"Josefin Sans", sans-serif;
+}
+/*ここにcolorを指定します*/
+.paragraph1{
+    color: skyblue;
+}
+.heading1{
+    color: rgb(255,192,203);
+}
+.heading2{
+  color: rgb(255,192,203);  
+}
+.heading3{
+  color: rgb(255,192,203);
+}
+.heading4{
+  color: rgb(255,192,203);
+}
+.paragraph2{
+  color: skyblue;
+}
+.paragraph3{
+    color: skyblue;
+  }
+  .paragraph4{
+    color: skyblue;
+  } 
+.decoration{
+  letter-spacing: 1.2em;
+  text-decoration: underline 3px rgb(255,192,203);
+  text-shadow: 1px 1px 2px gray;
+  font-size: 40px;
+}
+#parent p{
+  font-weight: bold;
+}
