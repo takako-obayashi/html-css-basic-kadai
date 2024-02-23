@@ -1,11 +1,9 @@
 body{
     font-family:"Arial", "Meiryo", sans-serif;
+}
+html{
     font-size: 20px;
     text-align: center;
-}
-.google-fonts{
-    /*ここにGoogle Fontsを指定します。*/
-    font-family:"Josefin Sans", sans-serif;
 }
 
 /*ここにcolorを指定します*/
@@ -35,10 +33,12 @@ body{
   } 
 .decoration{
   letter-spacing: 1.2em;
-  text-decoration: underline 3px rgb(255,192,203);
   text-shadow: 1px 1px 2px gray;
-  font-size: 2em;
+  font-size: 2rem;
+  border-bottom: solid rgb(115,115,114);
+  font-family:Josefin Sans; 
 }
+
 #parent p{
   font-weight: bold;
 }
