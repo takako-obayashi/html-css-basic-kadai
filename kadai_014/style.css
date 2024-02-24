@@ -31,14 +31,13 @@ html{
   .paragraph4{
     color: skyblue;
   } 
-.decoration{
-  letter-spacing: 1.2em;
+h1 {
+  font-family:Josefin Sans; letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
   font-size: 2rem;
-  border-bottom: solid rgb(115,115,114);
-  font-family:Josefin Sans; 
-}
+  border-bottom: solid 3px rgb(115,115,114);
 
+}
 #parent p{
   font-weight: bold;
 }
