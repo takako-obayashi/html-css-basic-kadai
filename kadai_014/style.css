@@ -1,5 +1,5 @@
 body{
-    font-family:"Arial", "Meiryo", sans-serif;
+    font-family: "Arial", "Meiryo" sans-serif;
 }
 html{
     font-size: 20px;
@@ -7,10 +7,10 @@ html{
 }
 
 /*ここにcolorを指定します*/
-.paragraph1{
+.paragraph{
     color: skyblue;
 }
-.heading1{
+.heading{
     color: rgb(255,192,203);
 }
 .heading2{
@@ -31,8 +31,11 @@ html{
   .paragraph4{
     color: skyblue;
   } 
+  .google-fonts {
+    font-family: Josefin Sans;
+  }
 h1 {
-  font-family:Josefin Sans; letter-spacing: 1.2em;
+  letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
   font-size: 2rem;
   border-bottom: solid 3px rgb(115,115,114);
