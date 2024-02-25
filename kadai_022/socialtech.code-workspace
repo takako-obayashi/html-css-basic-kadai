@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../audio"
+		},
+		{
+			"path": "../HTML_CSS"
+		},
+		{
+			"path": "../kadai_005"
+		},
+		{
+			"path": "../kadai_008"
+		},
+		{
+			"path": "../kadai_014"
+		},
+		{
+			"path": "../kadai_018"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../kadai_mdn_css"
+		}
+	],
+	"settings": {}
+}
